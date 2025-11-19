@@ -1,1 +1,1 @@
-# IT24_OpenWeather
+# IT24-OpenWeather
